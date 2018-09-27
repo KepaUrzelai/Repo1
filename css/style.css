@@ -37,6 +37,7 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
+	display: flex;
 }
 
 nav ul {
