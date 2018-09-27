@@ -37,11 +37,12 @@ nav {
     max-width: 160px;
     margin: 0;
     padding: 1em;
-	display: flex;
+	display: inline;
 }
 
 nav ul {
     list-style-type: none;
+	background-color: blue;
     padding: 0;
 }
    
