@@ -33,7 +33,7 @@ footer {
 }
 
 nav {
-    float: top;
+    float: left;
     max-width: 160px;
     margin: 0;
     padding: 1em;
@@ -45,7 +45,8 @@ nav ul {
 }
    
 nav ul a {
-    text-decoration: blue;
+	background-color: blue;
+    text-decoration: none;
 }
 
 article {
