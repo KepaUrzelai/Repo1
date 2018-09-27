@@ -42,7 +42,8 @@ nav {
 
 nav ul {
     list-style-type: none;
-	background-color: blue;
+	display: inline;
+	background-color: grey;
     padding: 0;
 }
    
